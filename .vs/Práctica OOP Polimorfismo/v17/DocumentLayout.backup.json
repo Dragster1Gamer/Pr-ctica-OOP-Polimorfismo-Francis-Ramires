@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wande\\source\\repos\\Pr\u00E1ctica OOP Polimorfismo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE851D2-AE60-434B-8F45-24BB793D2458}|Pr\u00E1ctica OOP Polimorfismo.csproj|c:\\users\\wande\\source\\repos\\pr\u00E1ctica oop polimorfismo\\empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE851D2-AE60-434B-8F45-24BB793D2458}|Pr\u00E1ctica OOP Polimorfismo.csproj|solutionrelative:empleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE851D2-AE60-434B-8F45-24BB793D2458}|Pr\u00E1ctica OOP Polimorfismo.csproj|C:\\Users\\wande\\source\\repos\\Pr\u00E1ctica OOP Polimorfismo\\empleadoadministrativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE851D2-AE60-434B-8F45-24BB793D2458}|Pr\u00E1ctica OOP Polimorfismo.csproj|solutionrelative:empleadoadministrativo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE851D2-AE60-434B-8F45-24BB793D2458}|Pr\u00E1ctica OOP Polimorfismo.csproj|C:\\Users\\wande\\source\\repos\\Pr\u00E1ctica OOP Polimorfismo\\docenteporhora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE851D2-AE60-434B-8F45-24BB793D2458}|Pr\u00E1ctica OOP Polimorfismo.csproj|solutionrelative:docenteporhora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE851D2-AE60-434B-8F45-24BB793D2458}|Pr\u00E1ctica OOP Polimorfismo.csproj|C:\\Users\\wande\\source\\repos\\Pr\u00E1ctica OOP Polimorfismo\\docentecontratofijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE851D2-AE60-434B-8F45-24BB793D2458}|Pr\u00E1ctica OOP Polimorfismo.csproj|solutionrelative:docentecontratofijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE851D2-AE60-434B-8F45-24BB793D2458}|Pr\u00E1ctica OOP Polimorfismo.csproj|C:\\Users\\wande\\source\\repos\\Pr\u00E1ctica OOP Polimorfismo\\iempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE851D2-AE60-434B-8F45-24BB793D2458}|Pr\u00E1ctica OOP Polimorfismo.csproj|solutionrelative:iempleado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFE851D2-AE60-434B-8F45-24BB793D2458}|Pr\u00E1ctica OOP Polimorfismo.csproj|C:\\Users\\wande\\source\\repos\\Pr\u00E1ctica OOP Polimorfismo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFE851D2-AE60-434B-8F45-24BB793D2458}|Pr\u00E1ctica OOP Polimorfismo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wande\\source\\repos\\Pr\u00E1ctica OOP Polimorfismo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\wande\\source\\repos\\Pr\u00E1ctica OOP Polimorfismo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T20:47:13.919Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Empleado.cs",
+              "DocumentMoniker": "C:\\Users\\wande\\source\\repos\\Pr\u00E1ctica OOP Polimorfismo\\Empleado.cs",
+              "RelativeDocumentMoniker": "Empleado.cs",
+              "ToolTip": "C:\\Users\\wande\\source\\repos\\Pr\u00E1ctica OOP Polimorfismo\\Empleado.cs",
+              "RelativeToolTip": "Empleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T20:48:50.191Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmpleado.cs",
+              "DocumentMoniker": "C:\\Users\\wande\\source\\repos\\Pr\u00E1ctica OOP Polimorfismo\\IEmpleado.cs",
+              "RelativeDocumentMoniker": "IEmpleado.cs",
+              "ToolTip": "C:\\Users\\wande\\source\\repos\\Pr\u00E1ctica OOP Polimorfismo\\IEmpleado.cs",
+              "RelativeToolTip": "IEmpleado.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T22:46:30.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DocenteContratoFijo.cs",
+              "DocumentMoniker": "C:\\Users\\wande\\source\\repos\\Pr\u00E1ctica OOP Polimorfismo\\DocenteContratoFijo.cs",
+              "RelativeDocumentMoniker": "DocenteContratoFijo.cs",
+              "ToolTip": "C:\\Users\\wande\\source\\repos\\Pr\u00E1ctica OOP Polimorfismo\\DocenteContratoFijo.cs",
+              "RelativeToolTip": "DocenteContratoFijo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T20:55:18.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DocentePorHora.cs",
+              "DocumentMoniker": "C:\\Users\\wande\\source\\repos\\Pr\u00E1ctica OOP Polimorfismo\\DocentePorHora.cs",
+              "RelativeDocumentMoniker": "DocentePorHora.cs",
+              "ToolTip": "C:\\Users\\wande\\source\\repos\\Pr\u00E1ctica OOP Polimorfismo\\DocentePorHora.cs",
+              "RelativeToolTip": "DocentePorHora.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T20:56:04.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpleadoAdministrativo.cs",
+              "DocumentMoniker": "C:\\Users\\wande\\source\\repos\\Pr\u00E1ctica OOP Polimorfismo\\EmpleadoAdministrativo.cs",
+              "RelativeDocumentMoniker": "EmpleadoAdministrativo.cs",
+              "ToolTip": "C:\\Users\\wande\\source\\repos\\Pr\u00E1ctica OOP Polimorfismo\\EmpleadoAdministrativo.cs",
+              "RelativeToolTip": "EmpleadoAdministrativo.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T20:55:44.592Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
